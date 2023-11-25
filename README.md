@@ -42,3 +42,12 @@ For every data point these features are fed to a classifier trained to predict t
 I implement the Logistic Regression, SVM, Random Forest Classifier, XGBoost and Neural Networks and report the results of the best classifier model. 
 
 ## Results
+
+10 fold cross validation
+
+| Models | Weighted Accuracy | Weighted Precision | Weighted Recall | Weighted F1 |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Logistic Regression  | 0.664  | 0.790  | 0.664  | 0.705 |
+| Random Forest Classifier | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| XGBoost | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Neural Networks | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
