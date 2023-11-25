@@ -26,4 +26,19 @@ label - indicates the relation between the news pair: agreed/disagreed/unrelated
 
 ## Solution
 
+Preprocessing - 
+
+I design the solution based on extracting similarity features between the title1_en(title of a fake news article A) and title2_en(title of a coming news article B) nemely - 
+1. Count Vectorizer similarity - Find the count vector representation of title1 and title2, and measure the similarity between the two titles.
+2. Count of a set of words in title2 and title1.
+3. SVD matrix similarity - Cosine similarity and euclidean distance of the svd matrix representation of title1 and title2.
+4. Polarity and subjectivity of title1 and title2.
+5. Polarity difference and subjectivity difference between title1 and title2.
+6. Topic similarity - Cosine similarity and euclidean distance similarity of the topic representation based on a LDA model.
+7. Word Mover's distance - WMD between the word2vec representation of title1 and title2.
+
+For every data point these features are fed to a classifier trained to predict the multiclass labels - agreed, disagreed, and unrelated.
+
+I implement the Logistic Regression, SVM, Random Forest Classifier, XGBoost and Neural Networks and report the results of the best classifier model. 
+
 ## Results
