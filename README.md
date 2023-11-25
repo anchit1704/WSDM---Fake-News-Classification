@@ -48,6 +48,6 @@ I implement the Logistic Regression, SVM, Random Forest Classifier, XGBoost and 
 | Models | Weighted Accuracy | Weighted Precision | Weighted Recall | Weighted F1 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Logistic Regression  | 0.664  | 0.790  | 0.664  | 0.705 |
-| Random Forest Classifier | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| XGBoost | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Neural Networks | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Random Forest Classifier | 0.803 | 0.794 | 0.803 | 0.789 |
+| XGBoost | 0.806 | 0.799 | 0.806 | 0.795 |
+| Neural Networks | 0.801  | 0.790 | 0.801 | 0.789 |
