@@ -6,7 +6,7 @@ This notebook shares a feature engineering based solution for the WSDM Fake News
 Given the title of a fake news article A and the title of a coming news article B, classify B into one of the three categories - 
 agreed: B talks about the same fake news as A, disagreed: B refutes the fake news in A, unrelated: B is unrelated to A.
 
-For detailed description visit the competition website link - https://www.kaggle.com/competitions/fake-news-pair-classification-challenge.
+For detailed description visit the competition website link [here](https://www.kaggle.com/competitions/fake-news-pair-classification-challenge).
 
 ## Dataset
 
