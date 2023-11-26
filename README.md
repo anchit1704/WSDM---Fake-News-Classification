@@ -18,9 +18,12 @@ sample_submission.csv - sample answer to the testing data.
 
 Data fields
 
-**id** - the id of each news pair.
-**tid1** - the id of fake news title 1.
-**tid2** - the id of news title 2.
+**id** - the id of each news pair.  
+
+**tid1** - the id of fake news title 1.  
+
+**tid2** - the id of news title 2.  
+
 **title1_zh** - the fake news title 1 in Chinese.
 **title2_zh** - the news title 2 in Chinese.
 **title1_en** - the fake news title 1 in English.
