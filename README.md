@@ -1,5 +1,5 @@
 # WSDM-Fake-News-Classification
-This notebook shares a feature engineering based solution for the WSDM Fake News Classification Challenge on Kaggle.
+In this project I design a feature engineering based solution for the WSDM Fake News Classification Challenge on Kaggle.
 
 ## Problem Description
 
