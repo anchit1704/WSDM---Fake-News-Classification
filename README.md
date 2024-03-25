@@ -47,7 +47,7 @@ I implement the Logistic Regression, SVM, Random Forest Classifier, XGBoost and 
 
 ## Results
 
-10 fold cross validation
+Validation set results after 10 fold cross validation -
 
 | Models | Weighted Accuracy | Weighted Precision | Weighted Recall | Weighted F1 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
